@@ -1,4 +1,5 @@
-"# Data Analysis and Model Development for Laptop and Car Pricing" 
+"# Data Analysis and Model Development for Laptop and Car Pricing"
+
 Project Overview
 This repository contains various stages of data analysis and machine learning model development for pricing laptops and cars. The project involves data acquisition, data wrangling, exploratory data analysis (EDA), model development, and model evaluation for both datasets (laptop and car pricing).
 
